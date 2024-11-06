@@ -19,6 +19,7 @@
                     <ul>
                         <li><a href="#">Sobre nosotros</a></li>
                         <li><a href="#">Contacto</a></li>
+                        <li><a href="./pages/reportes">REPORTES</a></li>
                     </ul>
                 </div>
                 <div class="footer-column">
